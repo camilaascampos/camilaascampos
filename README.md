@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**camilaascampos/camilaascampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Seja Bem-Vindo(a)!😊</h1>
 
 ###
@@ -57,7 +41,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=camilaascampos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="[https://github-profile-trophy.vercel.app?username=camilaascampos&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4](https://discord.com/channels/880866238442651658/880866239608672299/1477080620004802610)" height="150" alt="imagem"  />
+  <img src="https://ibb.co/pBN9s2PM" height="150" alt="imagem"  />
 </div>
 
 ###
