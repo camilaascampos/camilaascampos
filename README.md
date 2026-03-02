@@ -25,17 +25,18 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="https://www.linkedin.com/in/camila-alves-soares-campos/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+   <a href="https://x.com/camilaascampos" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://discordapp.com/users/1394097122881573017" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+   <a href="https://dev.to/camilaascampos" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+ <a href="https://tryhackme.com/p/camilaascampos" target="_blank">  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
 </div>
 
 ###
 
-<p align="left">Olá!<br>Sou Camila, estudante de Engenharia da Computação, com foco em Cybersecurity Forense e Inteligência Artificial aplicada à automação de uso pessoal.<br>Tenho interesse em segurança, análise de sistemas e no desenvolvimento de soluções práticas.<br>Aqui compartilho projetos, estudos e experimentos que fazem parte da minha jornada na tecnologia.<br>Seja bem-vindo(a) ao meu espaço 😊</p>
+<p align="left">Olá!<br>Sou Camila, estudante de Engenharia da Computação, apaixonada por Cybersecurity e aplicações para automação de uso pessoal.<br>
+Aqui compartilho projetos, estudos e experimentos que fazem parte da minha jornada na tecnologia.<br>
+Seja bem-vindo(a) ao meu espaço 😊</p>
 
 ###
 
